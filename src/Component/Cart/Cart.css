@@ -1,0 +1,19 @@
+.details{
+    padding: 20px;
+    color: white;
+
+}
+
+.playerDetails{
+    width: 70%;
+    margin: auto;
+    color: red;
+    font-weight: bold;
+}
+
+.playerBuy{
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color:black;
+    
+}

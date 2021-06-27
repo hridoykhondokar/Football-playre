@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  background-color: black;
+  color:white;
+  padding: 15px 0px;
+}
+
+.singlePlayer{
+  display:grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+}
+
+.main-container{
+  background-color: red;
+}
+
+.cartDetails{
+  text-align:center;
+}
+
+.Apps {
+  text-align: center;
+  background-color: black;
+  color:white;
+  padding: 15px 0px;
+  margin-top: 25px;
+}
